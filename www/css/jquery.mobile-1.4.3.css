@@ -4099,6 +4099,7 @@ textarea.ui-input-text {
 	min-height: 2.2em;
 	text-align: left; /* Opera aligns type="date" right by default */
 	border: 0;
+	font-family:cursive;
 	background-color:#a2798f;
 	-webkit-appearance: none;
 	-webkit-border-radius: inherit;
